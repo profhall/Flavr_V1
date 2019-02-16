@@ -1,0 +1,45 @@
+Milk1 Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 57 57
+width < 57
+height < 57
+SvgPath
+fill < #c6c6c6
+d M26 57l-14-6V18l14 5z
+
+SvgPath
+fill <fill2 #e6e6e6
+d M45 52l-19 5V23l19-5z
+
+SvgPath
+fill <fill3 #e2e2e2
+d M38 4L19 8V4l19-4z
+
+SvgPath
+fill <fill4 #d1d1d1
+d M26 23l-14-5 7-10z
+
+SvgPath
+fill <fill5 #eaeaea
+d M45 18l-19 5-7-15 19-4z
+
+SvgPath
+fill <fill6 #3dabef
+d M45 37L26 52V37l19-16z
+
+SvgPath
+fill <fill7 #2b9dd6
+d M12 46l14 6V37l-14-6z
+
+SvgPath
+d M34.215 16.875c-2.217.58-2.956-1.423-3.305-2.753-.348-1.33-.684-3.439 1.533-4.019 2.217-.58 2.956 1.423 3.304 2.753.348 1.33.685 3.439-1.532 4.019z
+fill <fill8 #fff
+
+SvgPath
+fill <fill9 #ededed
+d M34 4.842l2-.421v-4l-2 .421zM30 5.684l2-.421v-4l-2 .421zM26 6.526l2-.421v-4l-2 .421zM22 7.368l2-.421v-4l-2 .421z

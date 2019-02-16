@@ -1,0 +1,31 @@
+Mustard2 Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 58 58
+width < 58
+height < 58
+SvgPath
+d M39.869 58H18.131A2.13 2.13 0 0 1 16 55.869V12.621c0-.895.726-1.621 1.621-1.621h22.757c.896 0 1.622.726 1.622 1.621v43.248A2.13 2.13 0 0 1 39.869 58z
+fill < #ed7161
+
+SvgPath
+fill <fill2 #d13834
+d M35 11H23l4.615-11h2.77z
+
+SvgPath
+fill <fill3 #d75a4a
+d M16 16h26v2H16z
+
+SvgPath
+fill <fill3 #d75a4a
+d M20 11h2v6h-2zM25 11h2v6h-2zM30 11h2v6h-2zM36 11h2v6h-2z
+
+SvgCircle
+cx 29
+cy 36
+r 10
+fill <fill2 #d13834

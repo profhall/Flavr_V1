@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="176b554a-00e2-445c-b260-72e25265ff44" name="Default Changelist" comment="" />
+    <list default="true" id="176b554a-00e2-445c-b260-72e25265ff44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavr-v1/src/Main/App.view" beforeDir="false" afterPath="$PROJECT_DIR$/flavr-v1/src/Main/App.view" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavr-v1/src/Main/App.view.js" beforeDir="false" afterPath="$PROJECT_DIR$/flavr-v1/src/Main/App.view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavr-v1/src/Main/App.view.logic.js" beforeDir="false" afterPath="$PROJECT_DIR$/flavr-v1/src/Main/App.view.logic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flavr-v1/src/Main/components/FlavList.js" beforeDir="false" afterPath="$PROJECT_DIR$/flavr-v1/src/Main/components/FlavList.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +28,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.logic.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
                   <folding>
                     <element signature="e#0#25#0" expanded="true" />
                   </folding>
@@ -36,34 +43,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/data/veg_flavorbible.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" selection-start-line="1" selection-end-line="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/FlavList.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
-                  <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-                  <folding>
-                    <element signature="e#23#49#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/flavr-v1/.gitignore">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+                <state relative-caret-position="11">
+                  <caret line="1" column="13" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -90,22 +71,10 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/The_Vegetarian_Flavor_Bible_Plain_Text.txt">
+            <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/FlavCardItem.view.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="539">
-                  <caret line="3629" column="9" selection-start-line="3629" selection-start-column="9" selection-end-line="3629" selection-end-column="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="555">
-                  <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-                  <folding>
-                    <element signature="e#77#113#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="331">
+                  <caret line="75" column="3" lean-forward="true" selection-end-line="156" />
                 </state>
               </provider>
             </entry>
@@ -114,13 +83,40 @@
       </split-first>
       <split-second>
         <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1734">
+                  <caret line="158" column="15" selection-start-line="158" selection-start-column="15" selection-end-line="158" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#327#403#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+                <state relative-caret-position="1072">
+                  <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
                   <folding>
                     <element signature="e#77#113#0" expanded="true" />
+                    <element signature="e#3204#3434#0" />
+                    <element signature="e#3318#3421#0" />
+                    <element signature="e#3441#3788#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/FlavList.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+                  <folding>
+                    <element signature="e#23#49#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -167,8 +163,8 @@
       <find>name</find>
       <find>BLACK-E</find>
       <find>�</find>
-      <find>Season</find>
       <find>props</find>
+      <find>Season</find>
     </findStrings>
     <replaceStrings>
       <replace>e</replace>
@@ -192,8 +188,10 @@
         <option value="$PROJECT_DIR$/veg_flavorbible_VAR.JSON" />
         <option value="$PROJECT_DIR$/veg_flavorbible.js" />
         <option value="$PROJECT_DIR$/flavr-v1/src/Main/components/FlavList.js" />
+        <option value="$PROJECT_DIR$/flavr-v1/src/Main/components/FlavCardItem.view.js" />
         <option value="$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js" />
         <option value="$PROJECT_DIR$/flavr-v1/src/Main/App.view.js" />
+        <option value="$PROJECT_DIR$/flavr-v1/src/Main/App.view.logic.js" />
       </list>
     </option>
   </component>
@@ -337,12 +335,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28257000" />
+    <option name="totallyTimeSpent" value="29570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-133" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20181043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20181043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -356,7 +355,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32897383" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.046277665" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.4611465" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
       <window_info anchor="bottom" id="RNConsole" order="14" />
@@ -367,6 +366,32 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="RN Interactive" order="5" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20181043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32897383" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.046277665" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4611465" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="bottom" id="RNConsole" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="RN Interactive" order="5" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -386,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -403,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/data/veg_flavorbible.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/veg_flavorbible.JSON">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -417,45 +428,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js">
+    <entry file="file://$PROJECT_DIR$/flavr-v1/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.js">
+    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/FlavCardItem.view.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#77#113#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="331">
+          <caret line="75" column="3" lean-forward="true" selection-end-line="156" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.logic.js">
+    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/Card.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="1734">
+          <caret line="158" column="15" selection-start-line="158" selection-start-column="15" selection-end-line="158" selection-end-column="15" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#327#403#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/components/FlavList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        <state relative-caret-position="195">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
           <folding>
             <element signature="e#23#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flavr-v1/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/data/veg_flavorbible.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.logic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flavr-v1/src/Main/App.view.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1072">
+          <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
+          <folding>
+            <element signature="e#77#113#0" expanded="true" />
+            <element signature="e#3204#3434#0" />
+            <element signature="e#3318#3421#0" />
+            <element signature="e#3441#3788#0" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

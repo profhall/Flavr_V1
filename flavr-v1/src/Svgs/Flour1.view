@@ -1,0 +1,227 @@
+Flour1 Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 53.505 53.505
+width < 53.505
+height < 53.505
+SvgPath
+fill < #436b1c
+d M6.976 49.565l-6.976-3v-46h6.976z
+
+SvgPath
+d M24.529 46.934c2.147-2.962 5.649-9.998 7.765-12.928 1.606-2.225 3.638-3.379 5.706-3.438V.565H7.007v49H23.392c.067-.787.449-1.682 1.137-2.631z
+fill <fill2 #88c057
+
+SvgPath
+d M30 32.565H15a1 1 0 1 1 0-2h15a1 1 0 1 1 0 2zM28 29.565H18a1 1 0 1 1 0-2h10a1 1 0 1 1 0 2zM28 35.565H18a1 1 0 1 1 0-2h10a1 1 0 1 1 0 2zM20 23.793h-3.658A5.342 5.342 0 0 1 11 18.451v-3.658h3.658A5.342 5.342 0 0 1 20 20.135v3.658zM24 23.793h3.658A5.342 5.342 0 0 0 33 18.451v-3.658h-3.658A5.342 5.342 0 0 0 24 20.135v3.658z
+fill <fill3 #fff
+
+SvgPath
+d M21.992 19.293l2.587-2.587a5.341 5.341 0 0 0 0-7.554l-2.587-2.587-2.587 2.587a5.341 5.341 0 0 0 0 7.554l2.587 2.587z
+fill <fill3 #fff
+
+SvgPath
+d M46.42 52.94H27.64c-4.889 0-5.9-2.619-3.577-5.823 2.22-3.063 5.842-10.338 8.029-13.369 3.326-4.608 8.415-4.776 12.044-.297 2.097 2.589 5.748 9.375 7.916 12.059 3.306 4.089.775 7.43-5.632 7.43z
+fill <fill5 #faf5e5
+
+SvgCircle
+cx 46
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 50
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 44
+cy 43.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 48
+cy 43.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 42
+cy 40.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 46
+cy 40.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 40
+cy 37.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 44
+cy 37.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 38
+cy 34.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 42
+cy 34.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 48
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 52
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 26
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 28
+cy 43.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 30
+cy 40.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 32
+cy 37.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 34
+cy 34.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 24
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 44
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 42
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 40
+cy 43.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 38
+cy 40.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 36
+cy 37.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 38
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 36
+cy 43.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 34
+cy 40.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 40
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 36
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 34
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 32
+cy 43.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 30
+cy 46.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 32
+cy 49.565
+r 1
+fill <fill6 #efe7d0
+
+SvgCircle
+cx 28
+cy 49.565
+r 1
+fill <fill6 #efe7d0

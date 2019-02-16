@@ -1,0 +1,20 @@
+Bowl1 Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 50.946 50.946
+width < 50.946
+height < 50.946
+SvgPath
+d M50.946 15.737c0-3.396-11.405-6.149-25.473-6.149S0 12.341 0 15.737v.149c0 14.068 11.405 25.473 25.473 25.473s25.473-11.405 25.473-25.473v-.149z
+fill < #e6e6e6
+
+SvgEllipse
+cx 25.473
+cy 15.736
+rx 25.473
+ry 6.149
+fill <fill2 #d2d5d7

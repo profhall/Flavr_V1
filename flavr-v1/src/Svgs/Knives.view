@@ -1,0 +1,41 @@
+Knives Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 58 58
+width < 58
+height < 58
+SvgPath
+fill < #546a79
+d M0 6.699h5v8H0zM11 6.699h15v8H11zM32 6.699h14v8H32zM52 6.699h6v8h-6z
+
+SvgPath
+d M11 19.699H5v-15a3 3 0 1 1 6 0v15zM32 20.699h-6v-16a3 3 0 1 1 6 0v16z
+fill <fill2 #a46f3e
+
+SvgPath
+d M16.454 52.699H3v-33h13.454c.854 0 1.546.692 1.546 1.546v29.907c0 .855-.692 1.547-1.546 1.547zM30 55.699l-4-5v-30h10v.768c0 17.649-2.041 24.995-6 34.232z
+fill <fill3 #d2d5d7
+
+SvgPath
+d M29 29.699a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v5a1 1 0 0 1-1 1zM6 29.699a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v5a1 1 0 0 1-1 1z
+fill <fill4 #fff
+
+SvgPath
+d M52 19.699h-6v-15a3 3 0 1 1 6 0v15z
+fill <fill2 #a46f3e
+
+SvgPath
+d M50 56.301a26.844 26.844 0 0 1-5-15.602v-21h9c0 6.491-4 10.102-4 36.602z
+fill <fill3 #d2d5d7
+
+SvgPath
+fill <fill7 #e6e6e6
+d M13 19.699h2v33h-2z
+
+SvgPath
+d M48 29.699a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v5a1 1 0 0 1-1 1z
+fill <fill4 #fff

@@ -1,0 +1,80 @@
+Potatoes Svg
+alignSelf < auto
+marginTop < 0
+marginBottom < 0
+marginLeft < 0
+marginRight < 0
+opacity < 1
+viewBox 0 0 53 53
+width < 53
+height < 53
+SvgCircle
+cx 26.5
+cy 26.5
+r 26.5
+fill < #d2d5d7
+
+SvgCircle
+cx 26.5
+cy 26.5
+r 23.5
+fill <fill2 #f2f2f2
+
+SvgEllipse
+matrixX 0.915
+matrixY -0.4036
+matrixZ 0.4036
+matrixundefined 0.915
+matrixundefined -6.7659
+matrixundefined 6.5992
+cx 12.274
+cy 19.352
+rx 5.175
+ry 5.75
+fill <fill3 #f9d70b
+
+SvgEllipse
+matrixX 0.915
+matrixY -0.4036
+matrixZ 0.4036
+matrixundefined 0.915
+matrixundefined -5.1443
+matrixundefined 14.2657
+cx 31.274
+cy 19.338
+rx 5.175
+ry 5.75
+fill <fill4 #f9da49
+
+SvgEllipse
+matrixX 0.915
+matrixY -0.4036
+matrixZ 0.4036
+matrixundefined 0.915
+matrixundefined -10.1828
+matrixundefined 9.0053
+cx 16.274
+cy 28.662
+rx 5.175
+ry 5.75
+fill <fill5 #eeaf4b
+
+SvgPath
+d M24.063 33.644a1 1 0 0 1-.635-1.773l6.878-5.644a1 1 0 0 1 1.269 1.547l-6.878 5.644a1.005 1.005 0 0 1-.634.226z
+fill <fill6 #ed3f32
+
+SvgPath
+d M24.001 37.575a1 1 0 0 1-.635-1.773l6.878-5.644a1 1 0 0 1 1.269 1.547l-6.878 5.644a1.001 1.001 0 0 1-.634.226z
+fill <fill7 #436b1c
+
+SvgPath
+d M29.834 36.67a1 1 0 0 1-.635-1.773l5.896-4.838a1 1 0 0 1 1.269 1.547l-5.896 4.838a1.001 1.001 0 0 1-.634.226z
+fill <fill8 #88c057
+
+SvgPath
+d M27.807 42.214a1 1 0 0 1-.635-1.773l6.878-5.644a1 1 0 0 1 1.269 1.547l-6.878 5.644a1.003 1.003 0 0 1-.634.226z
+fill <fill9 #a4e869
+
+SvgPath
+d M26.539 21.427c-1.277-2.896-.206-6.172 2.391-7.336-1.326-2.796-4.411-4.145-6.977-3.014-2.615 1.153-3.696 4.444-2.414 7.349 1.282 2.906 4.44 4.326 7.055 3.173l.023-.014c-.024-.053-.054-.104-.078-.158z
+fill <fill5 #eeaf4b
